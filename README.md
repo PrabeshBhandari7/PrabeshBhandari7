@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Prabesh%20Bhandari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header" alt="header" />
+
+<img src="./avatar_circle.png" width="140" height="140" alt="Prabesh Bhandari" style="border-radius:50%;" />
+
+# Prabesh Bhandari
 
 <a href="https://github.com/prabeshbhandari7">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+from+Nepal+%F0%9F%91%8B;Building+clean,+functional+web+experiences;Learning+Full+Stack+%E2%80%94+Frontend,+Backend+%26+DB&font=Fira+Code&center=true&width=600&height=40&color=0e75b6&vCenter=true&size=20" alt="typing animation" />
