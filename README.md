@@ -1,14 +1,20 @@
 <div align="center">
 
-# Hi, I'm Prabesh Bhandari 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header&text=Prabesh%20Bhandari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header" />
 
-### Frontend Developer from Nepal — crafting clean, functional web experiences
+<a href="https://github.com/prabeshbhandari7">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+from+Nepal+%F0%9F%91%8B;Building+clean,+functional+web+experiences;Learning+Full+Stack+%E2%80%94+Frontend,+Backend+%26+DB&font=Fira+Code&center=true&width=600&height=40&color=0e75b6&vCenter=true&size=20" alt="typing animation" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=prabeshbhandari7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prabeshbhandari7.com.np-0e75b6?style=flat&logo=googlechrome&logoColor=white)](https://prabeshbhandari7.com.np/)
-[![Email](https://img.shields.io/badge/Email-prabeshb635%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prabeshb635@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabesh-bhandari-766a10361/)
+<img src="https://komarev.com/ghpvc/?username=prabeshbhandari7&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-prabeshbhandari7.com.np-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)](https://prabeshbhandari7.com.np/)
+[![Email](https://img.shields.io/badge/Email-prabeshb635%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prabeshb635@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabesh-bhandari-766a10361/)
 
 </div>
 
@@ -58,6 +64,11 @@ I'm a Bachelor in Information Technology (BIT) student passionate about building
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabeshbhandari7&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prabeshbhandari7&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
@@ -70,3 +81,5 @@ I'm a Bachelor in Information Technology (BIT) student passionate about building
 <a href="https://www.instagram.com/prabesh_bhandari123/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer" />
