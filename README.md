@@ -16,8 +16,13 @@
 
 ### 🚀 About Me
 
+I'm a Bachelor in Information Technology (BIT) student passionate about building clean, functional, and user-friendly web applications. My journey in tech started with a curiosity for how websites work, and it has grown into a genuine love for crafting digital experiences — from designing intuitive interfaces to building the logic and databases that power them behind the scenes. I enjoy solving real-world problems through code and am always excited to pick up new tools and frameworks along the way.
+
 - 🔭 Currently building **[DailoKhata](https://github.com/PrabeshBhandari7/DailoKhata.git)**
-- 🌱 Currently leveling up in **React JS, Tailwind CSS, Node JS, and MySQL**
+- 🌱 Leveling up across the **full stack** — Frontend, Backend, and Database development
+- 🛠️ Currently learning **React JS, Tailwind CSS, Node JS, and MySQL**
+- 🎓 Currently pursuing **BIT (3rd Year)** at **Itahari International College**
+- 📍 Based in **Kerabari-10, Morang, Nepal**
 - 👨‍💻 All my projects live at **[prabeshbhandari7.com.np](https://prabeshbhandari7.com.np/)**
 - 📫 Reach me at **prabeshb635@gmail.com**
 - ⚡ Fun fact: *Why do programmers prefer dark mode? Because light attracts bugs.* 🪲
@@ -52,6 +57,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabeshbhandari7&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
