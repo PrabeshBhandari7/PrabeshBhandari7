@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header" alt="header" />
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/prabeshbhandari7/prabeshbhandari7/main/avatar_circle.png&w=140&h=140&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Prabesh Bhandari" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/prabeshbhandari7/prabeshbhandari7/main/Prabesh.png&w=140&h=140&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Prabesh Bhandari" />
 
 # Prabesh Bhandari
 
