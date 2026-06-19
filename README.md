@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header" alt="header" />
 
-<img src="./avatar_circle.png" width="140" height="140" alt="Prabesh Bhandari" style="border-radius:50%;" />
+<img src="./mg.png" width="140" height="140" alt="Prabesh Bhandari" style="border-radius:50%;" />
 
 # Prabesh Bhandari
 
