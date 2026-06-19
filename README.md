@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=160&section=header" alt="header" />
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/PrabeshBhandari7/PrabeshBhandari7/main/Prabesh.png&w=140&h=140&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Prabesh Bhandari" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/prabeshbhandari7/prabeshbhandari7/main/avatar_circle.png&w=140&h=140&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Prabesh Bhandari" />
+
 # Prabesh Bhandari
 
 <a href="https://github.com/prabeshbhandari7">
@@ -65,12 +66,6 @@ I'm a Bachelor in Information Technology (BIT) student passionate about building
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabeshbhandari7&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prabeshbhandari7&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
