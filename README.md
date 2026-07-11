@@ -161,34 +161,9 @@ A personal portfolio site showcasing projects, skills, and a way for recruiters 
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Add%20Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Add%20Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Add%20Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
-
-</div>
-
 <br/>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrabeshBhandari7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E0AAFF&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=PrabeshBhandari7&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=E0AAFF" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabeshBhandari7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E0AAFF" width="49%"/>
-
-</div>
-
 <br/>
 
 ---
@@ -196,27 +171,9 @@ A personal portfolio site showcasing projects, skills, and a way for recruiters 
 <br/>
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabeshBhandari7&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E0AAFF" width="100%"/>
-
-</div>
-
 <br/>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PrabeshBhandari7/PrabeshBhandari7/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
 <br/>
 
 ---
