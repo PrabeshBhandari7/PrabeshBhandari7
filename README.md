@@ -137,46 +137,13 @@ DailoKhata is built to simplify how small business owners track customer credit 
 | **Performance** | Lightweight, fast-loading static site |
 | **Security** | Standard static-hosting best practices |
 | **Impact** | Central hub for all projects and contact info |
-| **Repository** | _Add repository link_ |
 
 A personal portfolio site showcasing projects, skills, and a way for recruiters and collaborators to get in touch.
 
 </details>
 
 <br/>
-
----
-
-<br/>
-
----
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
----
-
-<br/>
-
----
-<br/>
-
----
-
-<br/>
-
----
-<br/>
-
----
-<br/>
-
----
+--
 
 ## 🎯 Current Focus
 
