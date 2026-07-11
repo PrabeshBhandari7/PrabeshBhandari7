@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Prabesh%20Bhandari&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Bachelor+in+Information+Technology+(BIT);Full+Stack+%7C+React+%7C+Node.js+%7C+MySQL;Building+DailoKhata+%F0%9F%9A%80;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Bachelor+in+Information+Technology+(BIT);Full+Stack+%7C+React+%7C+Node.js+%7C+MySQL;Always+Learning%2C+Always+Building.;" alt="Typing SVG" />
+<br/>
 
 <br/>
 
@@ -87,28 +88,11 @@ I enjoy solving real-world problems through code, thinking in systems, and writi
 
 <br/>
 
----
-
-## 🤖 AI / ML Exposure
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Python for Data Handling** | 🟣🟣🟣⚪⚪ | Comfortable with core Python for scripting and data manipulation |
-| **Machine Learning Fundamentals** | 🟣🟣⚪⚪⚪ | Foundational understanding of ML concepts and workflows |
-| **Applied AI Curiosity** | 🟣🟣🟣⚪⚪ | Exploring AI-assisted tooling to speed up dev workflows |
-
-</div>
-
-<br/>
-
----
 
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>💰 DailoKhata — Digital Ledger Management App</b></summary>
+<summary><b> DailoKhata — Digital Ledger Management App</b></summary>
 <br/>
 
 A digital "khata" (ledger) system for tracking dues, credits, and transactions — replacing the traditional handwritten ledger book with a clean digital workflow.
@@ -143,7 +127,6 @@ A personal portfolio site showcasing projects, skills, and a way for recruiters 
 </details>
 
 <br/>
---
 
 ## 🎯 Current Focus
 
@@ -186,7 +169,6 @@ Open To:
 
 <br/>
 
----
 
 <div align="center">
 
