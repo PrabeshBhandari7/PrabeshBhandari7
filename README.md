@@ -101,8 +101,6 @@ I enjoy solving real-world problems through code, thinking in systems, and writi
 
 </div>
 
-> _Add your specific AI/ML coursework, libraries (NumPy, Pandas, scikit-learn, TensorFlow, etc.) or projects here as you build them._
-
 <br/>
 
 ---
@@ -149,59 +147,15 @@ A personal portfolio site showcasing projects, skills, and a way for recruiters 
 
 ---
 
-## 💼 Experience
-
-**_Add your internship / job title here_ — Company Name**
-`Date Range`
-
-> Brief professional description of the role and responsibilities.
-
-- Scope of work bullet point one
-- Scope of work bullet point two
-- Scope of work bullet point three
-
-`React` `Node.js` `MySQL` `Git`
-
 <br/>
 
 ---
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| _Add your achievement_ | _Add details_ |
-| _Add your achievement_ | _Add details_ |
 
 </div>
 
 <br/>
 
 ---
-
-## 📜 Certifications
-
-**AWS**
-<div align="left">
-<img src="https://img.shields.io/badge/AWS%20Certification-Add%20Yours-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a2e"/>
-</div>
-
-**Oracle**
-<div align="left">
-<img src="https://img.shields.io/badge/Oracle%20Certification-Add%20Yours-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=1a1a2e"/>
-</div>
-
-**NPTEL**
-<div align="left">
-<img src="https://img.shields.io/badge/NPTEL%20Certification-Add%20Yours-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-</div>
-
-**Cisco**
-<div align="left">
-<img src="https://img.shields.io/badge/Cisco%20Certification-Add%20Yours-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=1a1a2e"/>
-</div>
 
 <br/>
 
@@ -238,14 +192,6 @@ A personal portfolio site showcasing projects, skills, and a way for recruiters 
 <br/>
 
 ---
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrabeshBhandari7&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" />
-
-</div>
 
 <br/>
 
