@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Prabesh%20Bhandari&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20BIT%20Student%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Bachelor+in+Information+Technology+(BIT);Full+Stack+%7C+React+%7C+Node.js+%7C+MySQL;Diving+into+Cyber+Security+%F0%9F%94%90;Always+Learning%2C+Always+Building.;" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=100&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=Bachelor+in+Information+Technology+(BIT);Full+Stack+%7C+React+%7C+Node.js+%7C+MySQL;Diving+into+Cyber+Security+%F0%9F%94%90;Always+Learning%2C+Always+Building.;" alt="Typing SVG" />
 <br/>
+
 
 <img src="https://img.shields.io/badge/BIT-3rd%20Year-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Itahari%20International%20College-Nepal-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
@@ -88,7 +90,7 @@ Lately, I've also been expanding beyond application development into **Cyber Sec
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
 </div>
 
-### 🔐 Cyber Security (Currently Learning)
+###  Cyber Security (Currently Learning)
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash,kali,wireshark&theme=dark" />
 </div>
@@ -101,63 +103,17 @@ Lately, I've also been expanding beyond application development into **Cyber Sec
 | 🌐 **Network Security** | Packet analysis with Wireshark, firewalls, VPNs, network scanning with Nmap |
 | 🐧 **Systems** | Linux fundamentals, Kali Linux tooling, shell scripting for security tasks |
 | 🛡️ **Ethical Hacking Basics** | Reconnaissance, vulnerability scanning, Burp Suite fundamentals (CTF-style practice) |
-| 🔑 **AppSec Mindset** | Applying secure-by-design principles back into my own full-stack projects |
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>💰 DailoKhata — Digital Ledger Management App</b></summary>
-<br/>
-
-A digital "khata" (ledger) system for tracking dues, credits, and transactions — replacing the traditional handwritten ledger book with a clean digital workflow.
-
-| Category | Details |
-|---|---|
-| **Stack** | React JS · Node JS · Express · MySQL · Tailwind CSS |
-| **Scale** | Personal / small-business ledger management |
-| **Performance** | Optimized queries for fast transaction lookups |
-| **Security** | Input validation & secure authentication practices |
-| **Impact** | Digitizes manual bookkeeping for everyday shopkeepers |
-| **Repository** | [github.com/PrabeshBhandari7/DailoKhata](https://github.com/PrabeshBhandari7/DailoKhata.git) |
-
-DailoKhata is built to simplify how small business owners track customer credit and payments — moving a traditionally paper-based process into a fast, searchable, and reliable digital system.
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio Website — prabeshbhandari7.com.np</b></summary>
-<br/>
-
-| Category | Details |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript |
-| **Scale** | Personal branding & project showcase |
-| **Performance** | Lightweight, fast-loading static site |
-| **Security** | Standard static-hosting best practices |
-| **Impact** | Central hub for all projects and contact info |
-
-A personal portfolio site showcasing projects, skills, and a way for recruiters and collaborators to get in touch.
-
-</details>
 
 <br/>
 
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PrabeshBhandari7&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=E0AAFF&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabeshBhandari7&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=E0AAFF" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabeshBhandari7&theme=radical&hide_border=true&background=1a1a2e&stroke=8B5CF6&ring=A78BFA&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=A78BFA&dates=8B5CF6" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
